@@ -19,4 +19,5 @@
   - [ ] <b>BA</b> Information Systems *-ongoing-*
   
 - 🛡 CSCU by <b>EC-Council</b>
+- 🛡 DCPT by <b>DESEC Security</b> *-ongoing-*
 <hr>
