@@ -16,7 +16,7 @@
   - [x] <b>BA</b> International Relations
   - [x] <b>MSc</b> Human Geography [conflitcs, territories, identities]
   - [ ] <b>BA</b> Cyber Defense *-ongoing-*
-  - [ ] <b>BA</b> Information Systems *-ongoing-*
+  - [ ] <b>BA</b> Technology in Computer Systems *-ongoing-*
   
 - 🛡 CSCU by <b>EC-Council</b>
 - 🛡 DCPT by <b>DESEC Security</b> *-ongoing-*
