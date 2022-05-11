@@ -8,9 +8,9 @@
 
 ### Greetings and salutations! 
 
-- 🔐 Passionate about <b>cybersecurity</b>, flirting with <b>front-end</b> development
+- 🔐 Passionate about <b>cybersecurity</b>, networks, flirting with <b>front-end</b> development
 
-- 💻 HTML, CSS, Javascript, Python, Shellscript
+- 💻 HTML, CSS, Javascript, Python, Shellscript, C, Bash
 
 - 📚 Always studying, always learning:
   - [ ] <b>Estácio de Sá</b> | Cyber Defense *-ongoing-*
