@@ -13,8 +13,8 @@
 - 💻 HTML, CSS, Javascript, Python, Shellscript
 
 - 📚 Always studying, always learning:
-  - [ ] <b>BA</b> Estácio de Sá | Cyber Defense *-ongoing-*
-  - [ ] <b>BA</b> École 42 Rio | Software Engineering *-ongoing-*
+  - [ ] <b>Estácio de Sá</b> | Cyber Defense *-ongoing-*
+  - [ ] <b>École 42 Rio</b> | Software Engineering *-ongoing-*
   
 - 🛡 CSCU by <b>EC-Council</b>
 - 🛡 DCPT by <b>DESEC Security</b> *-ongoing-*
