@@ -8,7 +8,7 @@
 
 ### Greetings and salutations! 
 
-- 🔐 Passionate about <b>cybersecurity</b>, networks, flirting with <b>front-end</b> development
+- 🔐 Passionate about cybersecurity, networks and back-end development
 
 - 💻 HTML, CSS, Javascript, Python, Shellscript, C, Bash
 
