@@ -10,15 +10,15 @@
 
 - 🔐 Passionate about cybersecurity, networks and back-end development
 
-- 💻 HTML, CSS, Javascript, Python, Shellscript, C, Bash
+- 💻 Python, Shell, C, Bash
 
 - 📚 Always studying, always learning:
   - [ ] <b>Estácio de Sá</b> | Cyber Defense *-ongoing-*
   - [ ] <b>École 42 Rio</b> | Software Engineering *-ongoing-*
   
-- 🛡 CSCU by <b>EC-Council</b>
-- 🛡 DCPT by <b>DESEC Security</b> *-ongoing-*
-- 🔐 Cybersecurity Essentials by <b>Cisco</b>
-- 🔌 CCNA by <b>Cisco</b> *-ongoing-*
-- 🔌 Network Security by <b>Cisco</b> *-ongoing-*
-<hr>
+  - [x] CSCU by <b>EC-Council</b>
+  - [ ] DCPT by <b>DESEC Security</b> *-ongoing-*
+  - [x] Cybersecurity Essentials by <b>Cisco</b>
+  - [ ] CCNA by <b>Cisco</b> *-ongoing-*
+  - [ ] Network Security by <b>Cisco</b> *-ongoing-*
+  <hr>
