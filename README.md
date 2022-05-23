@@ -8,14 +8,15 @@
 
 ### Greetings and salutations! 
 
-- 🔐 Passionate about cybersecurity, networks and back-end development
+- 👉 Passionate about cybersecurity, networks and back-end development
 
 - 💻 Python, Shell, C, Bash
 
 - 📚 Always studying, always learning:
-  - [ ] <b>Estácio de Sá</b> | Cyber Defense *-ongoing-*
-  - [ ] <b>École 42 Rio</b> | Software Engineering *-ongoing-*
-  
+  - [ ] <b>Estácio de Sá</b> | 🛡 Cyber Defense *-ongoing-*
+  - [ ] <b>École 42 Rio</b> | ⚙ Software Engineering *-ongoing-*
+
+- 📑 Courses:
   - [x] CSCU by <b>EC-Council</b>
   - [ ] DCPT by <b>DESEC Security</b> *-ongoing-*
   - [x] Cybersecurity Essentials by <b>Cisco</b>
