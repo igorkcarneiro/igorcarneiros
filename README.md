@@ -20,6 +20,6 @@
   - [x] CSCU by <b>EC-Council</b>
   - [ ] DCPT by <b>DESEC Security</b> *-ongoing-*
   - [x] Cybersecurity Essentials by <b>Cisco</b>
-  - [ ] CCNA by <b>Cisco</b> *-ongoing-*
+  - [x] CCNA by <b>Cisco</b>
   - [ ] Network Security by <b>Cisco</b> *-ongoing-*
   <hr>
