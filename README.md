@@ -21,5 +21,5 @@
   - [ ] DCPT by <b>DESEC Security</b> *-ongoing-*
   - [x] Cybersecurity Essentials by <b>Cisco</b>
   - [x] CCNA by <b>Cisco</b>
-  - [x] Network Security by <b>Cisco</b> *-ongoing-*
+  - [x] Network Security by <b>Cisco</b>
   <hr>
