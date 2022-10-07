@@ -8,7 +8,7 @@
 
 ### Greetings and salutations! 
 
-- 👉 Passionate about cybersecurity, networks and back-end development
+- 👉 Passionate about cybersecurity
 
 - 💻 Python, Shell, C, Bash
 
