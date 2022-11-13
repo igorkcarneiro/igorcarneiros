@@ -8,7 +8,7 @@
 
 I am a cybersecurity enthusiast with a special interested in offensive security.
 <br>
-Right now, I am an intern at <a href="https://www.tempest.com.br/">Tempest Security Intelligence</a>, which is the largest company specialized in cybersecurity in Brazil.
+Right now, I am a technical consultant intern at <a href="https://www.tempest.com.br/">Tempest Security Intelligence</a>, which is the largest company specialized in cybersecurity in Brazil.
 <br>
 
 ### 📚 Education
