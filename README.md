@@ -7,9 +7,6 @@
 <a href="https://www.kriari.net"><img src="https://img.shields.io/badge/-my website: kriari.net-088734?style=flat-square"></a></p>
 
 I am a cybersecurity enthusiast with a special interested in offensive security.
-<br>
-Right now, I am a cybersecurity analyst at <a href="https://www.tempest.com.br/">Tempest Security Intelligence</a>, which is the largest Brazilian cybersecurity company.
-<br>
 
 ### 📚 Education
   - [ ] <b>Estácio de Sá</b> | 🛡 Cyber Defense *-ongoing-*
