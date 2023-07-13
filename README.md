@@ -1,4 +1,4 @@
-# Greetings and salutations! Igor here  :v: 
+# Greetings and salutations
 
 <p><a href="https://github.com/igorkcarneiro"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"></a>
 <a href="https://www.linkedin.com/in/igor-carneiro/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"></a> 
@@ -6,7 +6,7 @@
 <a href="https://api.whatsapp.com/send?phone=21978780401"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white"></a>
 <a href="https://www.kriari.net"><img src="https://img.shields.io/badge/-my website: kriari.net-088734?style=flat-square"></a></p>
 
-I am a cybersecurity enthusiast with a special interested in offensive security.
+I am a cybersecurity enthusiast with a special interested in offensive security
 
 ### 📚 Education
   - [ ] <b>Estácio de Sá</b> | 🛡 Cyber Defense *-ongoing-*
