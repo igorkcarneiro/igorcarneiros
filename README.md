@@ -9,8 +9,7 @@
 I am a cybersecurity enthusiast with a special interested in offensive security
 
 ### 📚 Education
-  - [ ] <b>Estácio de Sá</b> | 🛡 Cyber Defense *-ongoing-*
-  - [ ] <b>École 42 Rio</b> | ⚙ Software Engineering *-ongoing-*
+  - [x] <b>Estácio de Sá</b> | 🛡 Cyber Defense
   - [x] <b>Ibmec</b> | :globe_with_meridians: International Relations
 
 <br>
