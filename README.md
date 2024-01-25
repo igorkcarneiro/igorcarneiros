@@ -9,8 +9,6 @@
 - I am a cybersecurity analyst and a penetration tester
 - Currently preparing for the DCPT, OSCP and Burp Suite certifications
 
-<br>
-
 ### Education
 - [x] <b>DipTech</b> Cyber Defense | Estácio de Sá, 2023
 - [x] <b>MSc</b> Human Geography | Radboud Universiteit Nijmegen, 2017
