@@ -7,8 +7,6 @@
 ### whoami
 
 - I am a cybersecurity analyst and a penetration tester
-- Despite my primary focus on offensive security, I flirt with threat intelligence a lot
-- Continuously researching the latest web applications, APIs, mobile, infrastructure, and cloud environments exploitation techniques
 - Currently preparing for the DCPT, OSCP and Burp Suite certifications
 
 <br>
