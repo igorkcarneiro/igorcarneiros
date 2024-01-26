@@ -18,4 +18,5 @@
 
 ### Publications
 
-- [The importance of good IPv6 rule configuration on the firewall (Portuguese only)](https://sidechannel.blog/a-importancia-de-uma-boa-configuracao-de-regras-ipv6-no-firewall/)
+- Blogpost - SideChannel (PT-BR) - [The importance of good IPv6 rule configuration on the firewall](https://sidechannel.blog/a-importancia-de-uma-boa-configuracao-de-regras-ipv6-no-firewall/)
+- Video - Hack in Rio 2nd meetup (PT-BR) - [The importance of good IPv6 rule configuration on the firewall](https://www.youtube.com/watch?v=i7ho1xDdmx0)
