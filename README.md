@@ -6,8 +6,7 @@
 
 ### whoami
 
-- I am a cybersecurity analyst and a penetration tester
-- Currently preparing for the DCPT, OSCP and Burp Suite certifications
+- Cybersecurity analyst and a penetration tester
 
 ### Education
 - [x] <b>DipTech</b> Cyber Defense | Estácio de Sá, 2023
