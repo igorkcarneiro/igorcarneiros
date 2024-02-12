@@ -9,6 +9,7 @@
  I'm a cybersecurity professional with a knack for offensive security. As a pentester, I'm passionate about helping others building a secure stronghold against cyber threats.
 
 ### Education
+- [ ] <b>PGDip</b> Cybersecurity and Data Governance | PUC Minas, 2024
 - [x] <b>DipTech</b> Cyber Defense | Estácio de Sá, 2023
 - [x] <b>MSc</b> Human Geography | Radboud Universiteit Nijmegen, 2017
 - [x] <b>BA</b> International Relations | Ibmec, 2014
