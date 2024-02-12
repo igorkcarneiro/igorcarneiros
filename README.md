@@ -1,4 +1,4 @@
-# ~$ Greetings and salutations
+# ~$ Greetings and salutations!
 
 <a href="https://tryhackme.com/p/k4rkarov" target="_blank"><img src="https://img.shields.io/badge/-TryHackMe-1c2538?style=for-the-badge&logo=TryHackMe&logoColor=white" target="_blank"></a> 
 <a href="https://labs.hackthebox.com/home/users/profile/675554" target="_blank"><img src="https://img.shields.io/badge/-Hack%20the%20Box-1c2538?style=for-the-badge&logo=hackthebox&logoColor=green" target="_blank"></a> 
@@ -6,7 +6,7 @@
 
 ### whoami
 
-- Cybersecurity analyst and a penetration tester
+ I'm a cybersecurity professional with a knack for offensive security. As a pentester, I'm passionate about helping others building a secure stronghold against cyber threats.
 
 ### Education
 - [x] <b>DipTech</b> Cyber Defense | Estácio de Sá, 2023
