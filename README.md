@@ -19,7 +19,8 @@
 ### Publications
 
 
-- 🇧🇷 Blogpost - SideChannel - [The importance of good IPv6 rule configuration on the firewall](https://sidechannel.blog/a-importancia-de-uma-boa-configuracao-de-regras-ipv6-no-firewall/)
-- 🇧🇷 Video - Hack in Rio 2nd meetup - [The importance of good IPv6 rule configuration on the firewall](https://www.youtube.com/watch?v=i7ho1xDdmx0)
+- 🇧🇷 Blogpost - SideChannel - [A importância de uma boa configuração de regras IPv6 no firewall](https://sidechannel.blog/a-importancia-de-uma-boa-configuracao-de-regras-ipv6-no-firewall/)
+- 🇺🇸 Blogpost - SideChannel - [The importance of good IPv6 rule configuration on the firewall](https://sidechannel.blog/a-importancia-de-uma-boa-configuracao-de-regras-ipv6-no-firewall/)
+- 🇧🇷 Video - Hack in Rio 2nd meetup - [A importância de uma boa configuração de regras IPv6 no firewall](https://www.youtube.com/watch?v=i7ho1xDdmx0)
 - 🇧🇷 Blogpost - Medium - [Como criar e armazenar senhas de maneira correta](https://medium.com/@k4rkarov/como-criar-e-armazenar-senhas-de-maneira-correta-efa589b8ae8e)
 - 🇺🇸 Blogpost - Medium - [How to Create and Store Passwords Correctly](https://medium.com/@k4rkarov/how-to-create-and-store-passwords-correctly-8dbaab34ccf8)
