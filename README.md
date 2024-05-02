@@ -6,7 +6,7 @@
 
 ### whoami
 
- I'm a cybersecurity professional with a knack for offensive security. As a pentester, my goal is to help others building a secure stronghold against cyber threats.
+ I'm a cybersecurity professional with a knack for offensive security.
 
 ### Education
 - [x] <b>DipTech</b> Cyber Defense | Estácio de Sá, 2023
