@@ -6,7 +6,7 @@
 
 ### whoami
 
- I'm a cybersecurity professional with a knack for offensive security.
+ I'm a cybersecurity professional with a knack for offensive security
 
 ### Education
 - [x] <b>DipTech</b> Cyber Defense | Estácio de Sá, 2023
